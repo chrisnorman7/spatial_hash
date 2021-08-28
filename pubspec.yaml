@@ -1,11 +1,10 @@
-name: spatialhash
+name: spatial_hash
 description: >
-  An easy-to-use Spatial Hash implementation for Dart. 
+  An easy-to-use Spatial Hash implementation for Dart.
   Common use case is for collision detection in games or querying spatially-related data.
-version: 1.0.1
-repository: https://github.com/novemberisms/spatialhash
-homepage: https://github.com/novemberisms/spatialhash
-author: novemberisms <briansarfati@gmail.com>
+  This is a direct fork of [spatialhash](https://github.com/novemberisms/spatialhash/), but migrated to null safety.
+version: 1.0.0
+repository: https://github.com/chrisnorman7/spatial_hash
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
